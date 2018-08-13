@@ -1,0 +1,50 @@
+{
+  "name": "porn-hub",
+  "version": "1.0.0",
+  "description": "Horny Porny Corny",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDotJS/porn-hub.git"
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishi.ml)",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "opt.js"
+  ],
+  "keywords": [
+    "porn",
+    "title",
+    "views",
+    "upvotes",
+    "downvotes",
+    "fetch",
+    "extract",
+    "download",
+    "url",
+    "high definition",
+    "api"
+  ],
+  "dependencies": {
+    "got": "6.6.3"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.2.2",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "bugs": {
+    "url": "https://github.com/CodeDotJS/porn-hub/issues"
+  },
+  "homepage": "https://github.com/CodeDotJS/porn-hub#readme",
+  "main": "index.js"
+}
