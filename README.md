@@ -17,13 +17,13 @@
 ### Install
 
 ```
-$ npm install --save porn-hub
+$ npm install --save pornnhub
 ```
 
 ### Usage
 
 ```js
-const pornhub = require('porn-hub');
+const pornhub = require('pornnhub');
 
 const url = 'https://www.pornhub.com/view_video.php?viewkey=ph56fc59c124c0c';
 
